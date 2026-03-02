@@ -1,14 +1,14 @@
 <!-- Banner / Header Image -->
 
 
-<h1 align="center">Hi 👋, I'm Lei Justine</h1>
+<h1 align="center">Hi 👋, I'm Lei Justine Clemente</h1>
 <h3 align="center">Aspiring Backend Developer | 2nd Year BSIT Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/lei-justine-clemente-5b2800333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:clemente.leijustine@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Aizenn835">
