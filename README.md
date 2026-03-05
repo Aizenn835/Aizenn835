@@ -27,7 +27,6 @@
 - 🔹 2nd-year **BSIT student**, focusing on backend development  
 - 🔹 Learning **microservices, cloud deployment, and secure backend architecture**  
 - 🔹 Interested in **Spring Boot, Java, PostgreSQL, and backend optimization**  
-- 🔹 Fun fact: I love turning boring tasks into automated scripts! ⚡
 
 ---
 
