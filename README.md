@@ -50,5 +50,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <i>"The code you write makes you a programmer. The code you delete makes you a good one."</i><br><br>
+  — <b>Mario Fusco</b>
+</p>
 
