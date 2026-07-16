@@ -123,9 +123,9 @@ Responsive frontend built with HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aizenn835&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aizenn835&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizenn835&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aizenn835&layout=compact&theme=tokyonight"/>
 
 </p>
 
