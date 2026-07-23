@@ -111,13 +111,13 @@ REST API built with Spring Boot.
 - Shopping Cart
 - Image Upload
 
----
+--
 
 ### 🛍 E-Commerce Frontend
 
 Responsive frontend built with HTML, CSS and JavaScript.
 
----
+--
 
 # 📈 GitHub Stats
 
