@@ -22,7 +22,7 @@ Building secure, scalable backend applications with Java and Spring Boot.
 </a>
 </p>
 
----
+----
 
 # 👨‍💻 About Me
 
@@ -32,7 +32,7 @@ Building secure, scalable backend applications with Java and Spring Boot.
 - 🚀 Building a full-stack E-Commerce application
 - 📚 Interested in Clean Architecture, Backend Design and REST APIs
 
----
+----
 
 # 🚀 Current Project
 
@@ -57,7 +57,7 @@ A full-stack E-Commerce application.
 - JavaScript
 - Responsive Design
 
----
+----
 
 # 💻 Tech Stack
 
@@ -97,7 +97,7 @@ A full-stack E-Commerce application.
 
 </p>
 
----
+----
 
 # 📌 Featured Projects
 
@@ -111,13 +111,13 @@ REST API built with Spring Boot.
 - Shopping Cart
 - Image Upload
 
---
+----
 
 ### 🛍 E-Commerce Frontend
 
 Responsive frontend built with HTML, CSS and JavaScript.
 
---
+----
 
 # 📈 GitHub Stats
 
