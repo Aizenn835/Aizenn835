@@ -87,6 +87,8 @@ A full-stack E-Commerce application.
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/OAuth-White?style=for-the-badge"/>
+
 </p>
 
 ### Tools
