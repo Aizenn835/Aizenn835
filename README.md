@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure%2C+scalable+backend+apps;Java+%2B+Spring+Boot+%2B+REST+APIs;Currently+learning+JWT+%26+Spring+Security;Always+shipping+something+new&font=Fira+Code&center=true&width=560&height=45&color=6DB33F&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure%2C+scalable+backend+apps;Java+%2B+Spring+Boot+%2B+REST+APIs;Currently+learning+Unit+Testing+Integration Testing+%26+Spring+Security;Always+shipping+something+new&font=Fira+Code&center=true&width=560&height=45&color=6DB33F&vCenter=true&size=22"/>
 
 </div>
 
