@@ -71,7 +71,7 @@ Full-stack e-commerce app
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react"/>
 
 **Backend**
 <br/>
