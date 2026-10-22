@@ -95,8 +95,7 @@ Full-stack e-commerce app
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aizenn835&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aizenn835&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizenn835&theme=tokyonight&hide_border=true"/>
 
