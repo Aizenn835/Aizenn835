@@ -1,116 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Lei%20Justine%20Clemente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55&descSize=18"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · aizenn835</sub></p>
+<h1>Lei Justine Clemente</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>C++ | Computer Vision | Java | Spring Boot | JavaScript | Frontend &amp; Backend Developer | API Builder</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/aizenn835">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/197593337?u=364a9f51890a009599eae0309627174e52685877&amp;v=4" width="180" alt="Lei Justine Clemente GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>26 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>338 contributions · 150 active days</p></td>
+</tr>
+</table>
+
+<p><sub>C++ | Computer Vision | Java | Spring Boot | JavaScript | Frontend &amp; Backend Developer | API Builder</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>26</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>338</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/Aizenn835">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lei-justine-clemente-5b2800333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:clemente.leijustine@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Lei Justine Clemente GitHub proof metrics" />
+</picture>
 </p>
 
-<br/><br/>
+<h2>Selected work</h2>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure%2C+scalable+backend+apps;Java+%2B+Spring+Boot+%2B+REST+APIs;Currently+learning+Unit+Testing;Always+shipping+something+new&font=Fira+Code&center=true&width=560&height=45&color=6DB33F&vCenter=true&size=22"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&repos=aizenn835%2FDataStructuresAndAlgorithm%2Caizenn835%2FFADEC%2Caizenn835%2Fe-commerce-frontend%2Caizenn835%2Fecommerce-backend&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&repos=aizenn835%2FDataStructuresAndAlgorithm%2Caizenn835%2FFADEC%2Caizenn835%2Fe-commerce-frontend%2Caizenn835%2Fecommerce-backend&v=recruiter-projects-1&mode=dark" width="100%" alt="Lei Justine Clemente selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Aizenn835/DataStructuresAndAlgorithm">DataStructuresAndAlgorithm</a></h3>
+<p>Sharing my knowledges about data structure and algorithms in java</p>
+<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Aizenn835/DataStructuresAndAlgorithm">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Aizenn835/FADEC">FADEC</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Aizenn835/e-commerce-frontend">e-commerce-frontend</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Aizenn835/ecommerce-backend">ecommerce-backend</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<br/>
+<h2>Technical toolkit</h2>
 
-## 👨‍💻 About Me
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Lei Justine Clemente technology stack" />
+</picture>
+</p>
 
-```java
-public class Lei {
-    private String role = "BSIT Student @ LCUP";
-    private String[] focus = {"Java", "Spring Boot", "REST APIs"};
-    private String[] learning = {"Spring Security", "JWT", "JPA"};
-    private String currentProject = "SwiftCart — Full-Stack E-Commerce App";
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>39% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-    public String motto() {
-        return "First make it work. Then make it clean. Then make it fast.";
-    }
-}
-```
+<h2>Consistency signal</h2>
 
-- 🎓 3rd-year BSIT student at La Consolacion University of the Philippines
-- ☕ Backend-leaning developer, Java + Spring Boot ecosystem
-- 🌱 Currently deepening Spring Security, JWT Authentication, and JPA
-- 🚀 Building **SwiftCart**, a full-stack e-commerce app, after finishing **LibraryHub**, a library management system
-- 📚 Interested in clean architecture, backend design, and REST API best practices
-- 🎯 Targeting Junior Java Developer / Associate Software Engineer roles
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aizenn835&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197593337%3Fu%3D364a9f51890a009599eae0309627174e52685877%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Lei Justine Clemente contribution activity" />
+</picture>
+</p>
 
-<br/>
+<hr />
 
-## 🚀 Current Project
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/aizenn835">GitHub</a></td>
+</tr>
+</table>
 
-### 🛒 SwiftCart
-Full-stack e-commerce app
-
-**Backend**
-- JWT Authentication + Spring Security
-- Product catalog with search & filtering
-- Shopping cart, wishlist/favorites
-- Full checkout flow, order history
-- Email confirmations via JavaMailSender
-- PostgreSQL, layered architecture
-
-**Frontend**
-- Vanilla JS, HTML, CSS
-- Responsive design
-
-<br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,postgres,maven"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth2-white?style=for-the-badge"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
-
-</div>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizenn835&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aizenn835&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<i>"First make it work. Then make it clean. Then make it fast."</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer"/>
-
-</div>
+<p align="center"><sub>Lei Justine Clemente · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
